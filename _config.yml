@@ -1,0 +1,21 @@
+# Header
+menu:
+  博客: /
+  阅读: /read
+  电影: /move
+
+menucount: 归档
+homepage: 博客
+comment_provider: duoshuo
+# Duoshuo comment
+duoshuo:
+  short_name: dmxiaoshen
+
+# Content
+excerpt_link: 阅读全文 >
+fancybox: true
+baidu_tongji: dmxiaoshen
+
+categorie1: 随写
+categorie2: 笔记
+categorie3: 图集
